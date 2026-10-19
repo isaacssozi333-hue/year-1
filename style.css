@@ -20,7 +20,8 @@
  }
  img {
     max-width:200;
-    height: auto;
+    height: 300px;
     border-radius: 10px;
     margin-top: 20px;
+    border-radius: 70% solid blue;
  }
