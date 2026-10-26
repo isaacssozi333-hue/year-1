@@ -1,0 +1,25 @@
+ .flex-item {
+    display: flex;
+    padding: ;
+    margin: ;
+    border-radius: ;
+    width: 250px;
+    height: 250px;
+    flex-direction: row;
+    min-height: 400px ; 
+    align-items: center;
+    justify-content: center;
+
+
+
+    
+
+ }
+ .flex-container {
+    display: flex;
+
+ }
+ body{
+    background: ;
+    color: ;
+ }
